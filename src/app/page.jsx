@@ -3,8 +3,8 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <view>
+    <div>
       <h1>projeto</h1>
-    </view>
+    </div>
   );
 }
